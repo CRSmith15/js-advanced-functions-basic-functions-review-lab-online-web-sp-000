@@ -16,3 +16,4 @@ function wrapAdjective(highlight = "*") {
 }
 
 let Calculator = {}
+let Calculator.add = (num1 + num2)
