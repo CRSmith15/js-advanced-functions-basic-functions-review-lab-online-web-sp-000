@@ -14,3 +14,5 @@ function wrapAdjective(highlight = "*") {
     return (`You are ${highlight}${trait}${highlight}!`)
   }
 }
+
+let calculator = {}
